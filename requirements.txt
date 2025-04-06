@@ -1,0 +1,42 @@
+# requirements.txt for AI-Powered Personalized Study Assistant
+
+# AI & NLP
+transformers==4.38.1
+sentence-transformers==2.2.2
+langchain==0.1.13
+groq
+
+# PDF Processing
+PyMuPDF==1.23.21
+pdfminer.six==20221105
+
+# Backend
+fastapi==0.110.0
+uvicorn==0.29.0
+
+# Frontend
+streamlit==1.32.2
+
+# Vector DB
+faiss-cpu==1.7.4
+
+# Cloud Storage
+boto3==1.34.41
+firebase-admin==6.5.0
+google-cloud-storage==2.16.0
+
+# Utilities
+python-multipart==0.0.9
+requests==2.31.0
+beautifulsoup4==4.12.3
+python-dotenv==1.0.1
+
+# Database (optional)
+SQLAlchemy==2.0.28
+psycopg2-binary==2.9.9
+
+# Security (optional)
+passlib==1.7.4
+
+pip==24.0
+setuptools==69.2.0

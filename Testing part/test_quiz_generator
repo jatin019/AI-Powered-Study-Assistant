@@ -1,0 +1,12 @@
+from backend.utils.pdf_utils import extract_text_from_pdf
+from backend.services.quiz_generator import generate_quiz
+
+pdf_path = "data/uploads/sample.pdf"
+
+text = extract_text_from_pdf(pdf_path)
+print("\n✅ Extracted Text:\n") 
+
+print("🧠 Quiz Questions:\n")
+quiz = generate_quiz(text, num_questions=5)
+print(quiz)
+ 
