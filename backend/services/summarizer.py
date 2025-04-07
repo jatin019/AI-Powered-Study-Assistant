@@ -16,7 +16,7 @@ def summarize_text(content: str):
         
         # Create a detailed summary prompt template
         prompt_template = """
-        Write a short and to the pont summary of the following text. 
+        Write a short and to the point summary of the following text. 
         Include all key points, methodologies, and important information.
         
         
