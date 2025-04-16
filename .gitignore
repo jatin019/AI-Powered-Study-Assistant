@@ -6,3 +6,5 @@ test_pdf_utils.py
 test_quiz_generator
 test_summary.py
 test_faiss_creation.py
+__pycache__/
+*.py[cod]
