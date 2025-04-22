@@ -53,7 +53,7 @@ An intelligent, real-time learning assistant designed to help students engage wi
 1. Clone the repository:
    
 ```bash
-git clone https://github.com/yourusername/study-assistant.git
+git clone https://github.com/jatin019/AI-Powered-Study-Assistant.git
 cd study-assistant
 ```
 
