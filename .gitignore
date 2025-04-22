@@ -1,7 +1,7 @@
 .env
 info.txt
 work directory.txt
-README.md
+
 test_pdf_utils.py
 test_quiz_generator
 test_summary.py
