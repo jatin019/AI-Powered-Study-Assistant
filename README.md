@@ -6,7 +6,7 @@ An intelligent, real-time learning assistant designed to help students engage wi
 
 - 📄 Upload any PDF document
 - 📝 Generate a concise summary
-- 🧠 Create multiple-choice quizzes
+- 🧠 Create multiple-choice interactive quizzes 
 - 💬 Interact with an AI-powered tutor chatbot
 - ⚡ Fast inference with Groq LLMs
 - 🔍 Context-aware Q&A using Retrieval-Augmented Generation (RAG)
